@@ -1,2 +1,1 @@
 # TravelApp
-Javascript Travel App
